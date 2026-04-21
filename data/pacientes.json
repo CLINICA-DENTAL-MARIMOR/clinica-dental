@@ -4,5 +4,11 @@
         "nombre": "Maria",
         "telefono": "316348538",
         "historial": []
+    },
+    {
+        "documento": "12647836493",
+        "nombre": "Jose",
+        "telefono": "3125648590",
+        "historial": []
     }
 ]
